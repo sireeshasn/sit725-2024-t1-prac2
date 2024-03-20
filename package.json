@@ -1,0 +1,14 @@
+{
+  "name": "sit725-2023-t2-prac1-",
+  "version": "1.0.0",
+  "description": "This is a Node.js web application for practicing Express.js framework.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Siri",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
